@@ -1,9 +1,6 @@
-# AMTEK
-
-During my time at AMTEK the main task of my position was designing of security fences from aluminum profiles. Each fence layout is based on the customer's specifications and it is fitted with reinforcements, doors or active-electronic devices (sensors, electronic locks, cameras, security lights, etc.) as needed. Thanks to the variability of the MayCad profile system it is possible to quickly and cheaply create machine frames and thus replace the need for the production of specific parts and welding these parts into larger asemblies.
 
 ## Security fence with door
-
+[//]: # (During my time at AMTEK the main task of my position was designing of security fences from aluminum profiles. Each fence layout is based on the customer's specifications and it is fitted with reinforcements, doors or active-electronic devices &#40;sensors, electronic locks, cameras, security lights, etc.&#41; as needed. Thanks to the variability of the MayCad profile system it is possible to quickly and cheaply create machine frames and thus replace the need for the production of specific parts and welding these parts into larger asemblies.)
 A simple security fence with an opening door. The frame consists of aluminum profiles in size 40x40 and 40x80. The fillers are made from a welded mesh of  3 mm steel wire. The assy is further equipped with reinforcing sheet metal parts.
 
 <p>
