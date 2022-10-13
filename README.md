@@ -4,8 +4,8 @@
 A simple security fence with an opening door. The frame consists of aluminum profiles in size 40x40 and 40x80. The fillers are made from a welded mesh of  3 mm steel wire. The assy is further equipped with reinforcing sheet metal parts.
 
 <p>
-<img src="./Pics/Oploceni_AB.png" width="450" />
-<img src="./Pics/Oploceni_AA.png" width="456" />
+<img src="./Pics/Oploceni_AB.png" width="650" />
+<img src="./Pics/Oploceni_AA.png" width="656" />
 </p>
 
 
