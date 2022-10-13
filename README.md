@@ -5,7 +5,7 @@ A simple security fence with an opening door. The frame consists of aluminum pro
 
 <p>
 <img src="./Pics/Oploceni_AB.png" width="650" />
-<img src="./Pics/Oploceni_AA.png" width="656" />
+<img src="./Pics/Oploceni_AA.png" width="650" />
 </p>
 
 
