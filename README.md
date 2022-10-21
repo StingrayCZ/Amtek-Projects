@@ -27,7 +27,7 @@ Koncept jednoduchého hand truck, který vznikl dle požadavku zákazníka.
 <img src="./Pics/Cart.png" width="650" />
 
 
-## Oploceni skladu
+## Warehouse Fencing
 
 An internal project, which aimed to design the fence for secure a storage area and its separation from the rest of the warehouse. One of the requirements was to make a fence from scrap in order to reduce production costs. It means to use of reminder profiles and polycarbonate fillers from previous projects. For better orientation and easier assembly, fillers of the same size are marked with the same color.
 
